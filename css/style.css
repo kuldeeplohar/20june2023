@@ -1,0 +1,17 @@
+
+
+.k_up{
+    display: none;
+    background-color: red;
+    border:none;
+    position: fixed;
+    right: 0px;
+    bottom: 0px;
+    cursor: pointer;
+    height: 40px;
+    width: 40px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    color: white;
+
+}
